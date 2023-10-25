@@ -91,3 +91,4 @@ describe('GET /api/products/:id', () => {
         expect(response.body).toHaveProperty('data')
     })
 })
+
