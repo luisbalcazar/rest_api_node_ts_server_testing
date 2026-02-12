@@ -9,7 +9,7 @@
     "test:coverage" : "npm run pretest && jest --detectOpenHandles --coverage",
     "pretest" : "ts-node ./src/data --clear"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Luis Balcazar",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.20",
